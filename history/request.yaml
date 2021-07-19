@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS03ASHS-MJ03B-10-CTDPFB304-streamed-ctdpf_optode_sample
-last_request: '2021-04-01T02:43:35.858675Z'
+last_request: '2021-07-19T18:38:03.641580Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03ASHS-MJ03B-10-CTDPFB304-streamed-ctdpf_optode_sample/main/history/response.json
-status: success
+status: pending
